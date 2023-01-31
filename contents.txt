@@ -23,3 +23,9 @@ SECTION03 STATE
   - 08 State Practice part Two
   - 09 Recap
   - 10 Final Practice and Recap
+
+SECTION04 PROPS
+  - 01 Props
+  - 02 Memo
+  - 03 Prop Types
+  - 04 Recap
