@@ -1,4 +1,3 @@
-
 SECTION01 INTRODUCTION
   - 01 Why React
   - 02 Requirements
@@ -29,3 +28,27 @@ SECTION04 PROPS
   - 02 Memo
   - 03 Prop Types
   - 04 Recap
+
+SECTION05 CREATE REACT APP
+  - 01 Introduction
+  - 02 Tour of CRA
+
+SECTION06 EFFECTS
+  - 01 Introduction
+  - 02 useEffect
+  - 03 Deps
+  - 04 Cleanup
+
+SECTION07 PRACTICE MOVIE APP
+  - 01 To Do List part 0ne
+  - 02 To Do List part Two
+  - 03 Coin Tracker
+  - 04 Movie App part One
+  - 05 Movie App part Two
+  - 06 React Router
+  - 07 Parameters
+  - 08 Publishing
+  - 09 Conclusions
+  - 10 Styles
+  - 11 Next Step
+
