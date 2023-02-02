@@ -1,4 +1,6 @@
-SECTION01 INTRODUCTION
+Function Components
+
+SECTION01 INTRODUCTION 
   - 01 Why React
   - 02 Requirements
 
@@ -50,5 +52,5 @@ SECTION07 PRACTICE MOVIE APP
   - 08 Publishing
   - 09 Conclusions
   - 10 Styles
-  - 11 Next Step
 
+Class Components
