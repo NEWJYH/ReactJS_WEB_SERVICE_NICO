@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/ReactJS_WEB_SERVICE_NICO/static/js/main.b68dd15e.js",
+    "main.js": "/ReactJS_WEB_SERVICE_NICO/static/js/main.5074c115.js",
     "index.html": "/ReactJS_WEB_SERVICE_NICO/index.html",
-    "main.b68dd15e.js.map": "/ReactJS_WEB_SERVICE_NICO/static/js/main.b68dd15e.js.map"
+    "main.5074c115.js.map": "/ReactJS_WEB_SERVICE_NICO/static/js/main.5074c115.js.map"
   },
   "entrypoints": [
-    "static/js/main.b68dd15e.js"
+    "static/js/main.5074c115.js"
   ]
 }
